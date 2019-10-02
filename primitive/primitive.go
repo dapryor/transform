@@ -1,4 +1,4 @@
-package primitve
+package primitive
 
 import (
 	"bytes"
